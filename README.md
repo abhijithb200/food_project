@@ -1,3 +1,3 @@
 # food_project
 
-to order and track food
+To order and track food
