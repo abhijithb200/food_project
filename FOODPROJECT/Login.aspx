@@ -8,25 +8,20 @@
             <tr>
                 <td>
                     <asp:Image ID="Image3" runat="server" Height="150px" 
-                        ImageUrl="~/foodimg/images.jpg" Width="470px" />
+                        ImageUrl="~/images/page-1_img05.jpg" Width="480px" Style="object-fit:contain;padding-top:68px " />
                 </td>
             </tr>
             <tr>
                 <td>
                     <asp:Image ID="Image1" runat="server" Height="150px" 
-                        ImageUrl="~/foodimg/maxresdefault.jpg" Width="470px" />
+                        ImageUrl="~/images/slide02.jpg" Width="470px" Style="object-fit:contain;padding-top:8px  "/>
                 </td>
             </tr>
-            <tr>
-                <td>
-                    <asp:Image ID="Image2" runat="server" Height="150px" 
-                        ImageUrl="~/foodimg/images.jpg" Width="470px" />
-                </td>
-            </tr>
+          
             <tr>
                 <td>
                     <asp:Image ID="Image4" runat="server" Height="150px" 
-                        ImageUrl="~/foodimg/maxresdefault.jpg" Width="470px" />
+                        ImageUrl="~/images/slide021.jpg" Width="470px" Style="object-fit:contain;padding-top:8px  "/>
                 </td>
             </tr>
             
